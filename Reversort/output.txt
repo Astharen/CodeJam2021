@@ -1,0 +1,1 @@
+Case #0: 6/n Case #1: 1/n Case #2: 12/n 
